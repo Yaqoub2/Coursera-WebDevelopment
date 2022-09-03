@@ -1,3 +1,5 @@
 # Coursera-WebDevelopment
 ## Coursera-WebDevelopment repository
-theme: cayman
+# Build settings
+markdown: kramdown
+theme: minima
